@@ -1,2 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
 
-#тест
+.qwer {
+ font-size: 12px;
+ color: #FF0000;    
+ text-align: center;
+}
